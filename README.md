@@ -56,12 +56,12 @@
       <sub>MatrixHive</sub><br>
       <sub>⚡ React • AWS Lambda • 100+ Users</sub>
     </td>
-    <td align="center" width="25%">
+    <!-- <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Jun%202023-Sep%202023-FF6B6B?style=flat-square" /><br>
       <b>Software Developer</b><br>
       <sub>BrainyBeams</sub><br>
       <sub>🔧 ASP.NET • Docker • 300+ Employees</sub>
-    </td>
+    </td> -->
   </tr>
 </table>
 
